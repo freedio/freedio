@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dominik
-- 👀 I’m interested in FORTH, Kotlin, Java, Reactive Systems
-- 🌱 I’m currently learning how to build a strawbale house and how to make tea, salad and vegetables from wild plants
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: dom@coradec.com
+- 👀 I’m interested in FORTH, Kotlin, Java, Reactive Systems, Lean Dev, and I'm just generally a YES person
+- 🌱 I'm a restless learner in many areas of life: physical, science, philosophy, arts, and of course the fast growing IT
+- 💞️ I’m looking to collaborate on anything interesting, promising, new, 
+- 📫 How to reach me: dom@coradec.com (business, dominik@wezel.ch (private)
 - I've migrated to JetBrains Space and GitLab, so there's no more development here
 
 <!---
